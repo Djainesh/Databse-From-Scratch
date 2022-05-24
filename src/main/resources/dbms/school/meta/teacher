@@ -1,0 +1,3 @@
+colName|colType|pk|nn|ai|fkTable|fkColumn|order
+teachername|int|true|false|false|null|null|0
+id|int|true|true|true|null|null|1
